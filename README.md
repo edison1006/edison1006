@@ -30,10 +30,10 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a **Software Engineering Master's student** at Yoobee College (NZ) with a unique **FinTech advantage**[cite: 37]. [cite_start]Before pivoting to tech, I spent **7+ years in banking leadership**, managing **$200M+ AUM** and driving digital transformation[cite: 4, 30].
+I am a **Software Engineering Master's student** at Yoobee College (NZ) with a unique **FinTech advantage**. Before pivoting to tech, I spent **7+ years in banking leadership**, managing **$200M+ AUM** and driving digital transformation.
 
-* [cite_start]🔭 **Currently working on:** An **AI-powered accountancy platform** for SMEs using AWS & Python[cite: 17].
-* [cite_start]💼 **My superpower:** Bridging the gap between **complex business logic** and **scalable technical architecture**[cite: 6].
+* 🔭 **Currently working on:** An **AI-powered accountancy platform** for SMEs using AWS & Python.
+* 💼 **My superpower:** Bridging the gap between **complex business logic** and **scalable technical architecture**.
 * 🌱 **Learning:** Advanced Cloud Native Architectures & Microservices.
 
 ---
@@ -71,13 +71,13 @@
 
 ### 🌟 Featured Project
 
-#### [cite_start]**AI-Powered SME Accountancy Platform** (Tiaki Taonga Trust) [cite: 17]
+#### **AI-Powered SME Accountancy Platform** (Tiaki Taonga Trust)
 > *Tech Stack: Python, AWS (OCR, Lambda), PostgreSQL, React*
 
 Leading the development of an intelligent financial tool to automate bookkeeping for non-profits and SMEs.
-* [cite_start]✨ **Impact:** Reduced manual entry by **85%** and improved reconciliation speed by **70%**[cite: 19].
-* [cite_start]🛠 **Solution:** Built an automated scanning engine using **AWS OCR API** and a custom auto-matching algorithm[cite: 19].
-* [cite_start]☁️ **Architecture:** Secure, scalable cloud infrastructure on AWS[cite: 20].
+* ✨ **Impact:** Reduced manual entry by **85%** and improved reconciliation speed by **70%**.
+* 🛠 **Solution:** Built an automated scanning engine using **AWS OCR API** and a custom auto-matching algorithm.
+* ☁️ **Architecture:** Secure, scalable cloud infrastructure on AWS.
 
 ---
 
@@ -91,16 +91,16 @@ Leading the development of an intelligent financial tool to automate bookkeeping
 
 **Volunteer Project Manager (AI & Full-Stack)**
 <br> *Tiaki Taonga Trust | 08.2025 - Present*
-* [cite_start]Leading a 3-person Agile team to build fintech solutions[cite: 17].
+* Leading a 3-person Agile team to build fintech solutions.
 
 **Deputy General Manager**
 <br> *Shanghai Pudong Development Bank | 06.2018 - 06.2025*
-* [cite_start]Managed **$200M+ AUM** and achieved **15%+ growth**.
-* [cite_start]Improved team productivity by **30%** via CRM workflow optimization[cite: 29].
+* Managed **$200M+ AUM** and achieved **15%+ growth**.
+* Improved team productivity by **30%** via CRM workflow optimization.
 
 **Customer Manager**
 <br> *China CITIC Bank | 06.2014 - 06.2018*
-* [cite_start]Increased client satisfaction by 25%[cite: 35].
+* Increased client satisfaction by 25%.
 
 </td>
 <td width="45%">
@@ -108,16 +108,16 @@ Leading the development of an intelligent financial tool to automate bookkeeping
 #### 🎓 Education
 
 **Master of Software Engineering**
-<br> *Yoobee College, NZ | 2025 - 2026* [cite: 37]
+<br> *Yoobee College, NZ | 2025 - 2026*
 
 **Master of Business Administration (MBA)**
-<br> *Anhui University, China | 2021* [cite: 38]
+<br> *Anhui University, China | 2021*
 
 **Bachelor of Computing & Info Science**
-<br> *Zhongnan Univ. of Economics & Law | 2014* [cite: 39]
+<br> *Zhongnan Univ. of Economics & Law | 2014*
 
 **Bachelor of Finance**
-<br> *South-Central Univ. for Nationalities | 2014* [cite: 40]
+<br> *South-Central Univ. for Nationalities | 2014*
 
 </td>
 </tr>
