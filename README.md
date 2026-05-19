@@ -1,12 +1,12 @@
-<!-- =============================== CYBERPUNK PROFILE =============================== -->
+<!-- =============================== EDISON ZHANG | CYBERPUNK PROFESSIONAL PROFILE =============================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,35:28104E,70:FF00E5,100:00E5FF&height=240&section=header&text=Edison%20(Xiaoyu)%20Zhang&fontSize=54&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Cloud%20Builder%20%7C%20AI%20Systems%20Operator&descAlignY=56&descSize=18&fontColor=F8F8FF&descColor=00E5FF" width="100%" alt="Cyberpunk header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,28:15162B,55:7C3AED,78:FF00E5,100:00E5FF&height=245&section=header&text=Edison%20(Xiaoyu)%20Zhang&fontSize=54&fontAlignY=34&animation=fadeIn&desc=Data%20Analyst%20%7C%20Cloud%20Data%20Builder%20%7C%20AI%20Automation%20Practitioner&descAlignY=56&descSize=17&fontColor=F8FAFC&descColor=00E5FF" width="100%" alt="Edison Zhang cyberpunk profile header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=80&lines=Banking+analytics+%2B+software+engineering;SQL+%7C+Python+%7C+Power+BI+%7C+AWS+%7C+AI+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=78&lines=Banking+analytics+engineered+for+decision+speed;SQL+%7C+Python+%7C+Power+BI+%7C+AWS+%7C+PostgreSQL+%7C+AI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,36 +18,37 @@
     <img src="https://img.shields.io/badge/Email-FF00E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/edison1006">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=edison1006&style=for-the-badge&color=00E5FF&label=Signal+Hits" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=edison1006&style=for-the-badge&color=7C3AED&label=Profile+Signals" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="#operator-profile"><img src="https://img.shields.io/badge/Operator_Profile-050014?style=flat-square&labelColor=FF00E5&color=050014" alt="Operator Profile" /></a>
-  <a href="#neural-stack"><img src="https://img.shields.io/badge/Neural_Stack-050014?style=flat-square&labelColor=00E5FF&color=050014" alt="Neural Stack" /></a>
-  <a href="#mission-files"><img src="https://img.shields.io/badge/Mission_Files-050014?style=flat-square&labelColor=BD00FF&color=050014" alt="Mission Files" /></a>
-  <a href="#system-metrics"><img src="https://img.shields.io/badge/System_Metrics-050014?style=flat-square&labelColor=39FF14&color=050014" alt="System Metrics" /></a>
-  <a href="#access-node"><img src="https://img.shields.io/badge/Access_Node-050014?style=flat-square&labelColor=FFB000&color=050014" alt="Access Node" /></a>
+  <a href="#executive-signal"><img src="https://img.shields.io/badge/Executive_Signal-050014?style=flat-square&labelColor=00E5FF&color=050014" alt="Executive Signal" /></a>
+  <a href="#capability-matrix"><img src="https://img.shields.io/badge/Capability_Matrix-050014?style=flat-square&labelColor=FF00E5&color=050014" alt="Capability Matrix" /></a>
+  <a href="#case-files"><img src="https://img.shields.io/badge/Case_Files-050014?style=flat-square&labelColor=7C3AED&color=050014" alt="Case Files" /></a>
+  <a href="#technology-grid"><img src="https://img.shields.io/badge/Technology_Grid-050014?style=flat-square&labelColor=22C55E&color=050014" alt="Technology Grid" /></a>
+  <a href="#metrics"><img src="https://img.shields.io/badge/Metrics-050014?style=flat-square&labelColor=F59E0B&color=050014" alt="Metrics" /></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-050014?style=flat-square&labelColor=E11D48&color=050014" alt="Contact" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:00E5FF,100:39FF14&height=4&section=header" width="100%" alt="neon divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,35:7C3AED,70:FF00E5,100:22C55E&height=4&section=header" width="100%" alt="neon divider" />
 
-<!-- =============================== OPERATOR PROFILE =============================== -->
+<!-- =============================== EXECUTIVE SIGNAL =============================== -->
 
-<h2 id="operator-profile" align="center">Operator Profile</h2>
+<h2 id="executive-signal" align="center">Executive Signal</h2>
 
 <table align="center">
 <tr>
 <td align="center">
 
-<strong>Data Analyst</strong> with <strong>5 years of banking analytics experience</strong>, building decision-support systems,
-automation workflows, reporting layers, and cloud-connected data products.
+<strong>Data Analyst with 5 years of banking analytics experience</strong>, focused on turning complex financial operations into clean,
+auditable, decision-ready data systems.
 <br>
-I translate financial business logic into reliable technical systems using
-<strong>SQL/PostgreSQL</strong>, <strong>Python</strong>, <strong>Power BI</strong>, <strong>AWS/Azure</strong>, and API-driven pipelines.
+I design analytics workflows across <strong>SQL/PostgreSQL</strong>, <strong>Python</strong>, <strong>Power BI</strong>, <strong>AWS/Azure</strong>,
+API integrations, and automation pipelines.
 <br>
-Currently pursuing a <strong>Master of Software Engineering</strong> at Yoobee College, New Zealand.
+Currently completing a <strong>Master of Software Engineering</strong> at Yoobee College in New Zealand, extending finance-domain analytics into modern software and AI delivery.
 
 </td>
 </tr>
@@ -58,31 +59,32 @@ Currently pursuing a <strong>Master of Software Engineering</strong> at Yoobee C
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <br>
-<img src="https://img.shields.io/badge/ACTIVE_MISSION-FF00E5?style=flat-square&labelColor=050014" alt="Active mission" />
+<img src="https://img.shields.io/badge/Domain-Banking_Analytics-00E5FF?style=flat-square&labelColor=050014" alt="Banking analytics" />
 <br><br>
-<strong>AI-Powered Accounting Platform</strong>
-<br>
-<sub>Automation and analytics for NZ SMEs</sub>
+<strong>Credit, portfolio, and KPI reporting</strong>
 <br><br>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <br>
-<img src="https://img.shields.io/badge/CORE_PROTOCOL-00E5FF?style=flat-square&labelColor=050014" alt="Core protocol" />
+<img src="https://img.shields.io/badge/Engineering-Data_Pipelines-FF00E5?style=flat-square&labelColor=050014" alt="Data pipelines" />
 <br><br>
-<strong>Finance Logic to Data Systems</strong>
-<br>
-<sub>Banking domain knowledge plus engineering delivery</sub>
+<strong>SQL models, ETL/ELT, APIs, automation</strong>
 <br><br>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <br>
-<img src="https://img.shields.io/badge/UPGRADING-39FF14?style=flat-square&labelColor=050014" alt="Upgrading" />
+<img src="https://img.shields.io/badge/Delivery-BI_Systems-7C3AED?style=flat-square&labelColor=050014" alt="BI systems" />
 <br><br>
-<strong>Cloud-Native AI/ML Pipelines</strong>
+<strong>Power BI dashboards and stakeholder insight</strong>
+<br><br>
+</td>
+<td align="center" width="25%">
 <br>
-<sub>React, full-stack, automation, and applied AI</sub>
+<img src="https://img.shields.io/badge/Trajectory-AI_and_Cloud-22C55E?style=flat-square&labelColor=050014" alt="AI and cloud" />
+<br><br>
+<strong>Cloud-native AI workflow expansion</strong>
 <br><br>
 </td>
 </tr>
@@ -90,14 +92,110 @@ Currently pursuing a <strong>Master of Software Engineering</strong> at Yoobee C
 </div>
 
 <p align="center">
-  <em>"Without data, you're just another person with an opinion."</em> - W. Edwards Deming
+  <em>Professional focus: finance-grade analytics, clean automation, and systems that make decisions easier to trust.</em>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:BD00FF,100:FF00E5&height=4&section=header" width="100%" alt="neon divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:00E5FF,100:7C3AED&height=4&section=header" width="100%" alt="neon divider" />
 
-<!-- =============================== NEURAL STACK =============================== -->
+<!-- =============================== CAPABILITY MATRIX =============================== -->
 
-<h2 id="neural-stack" align="center">Neural Stack</h2>
+<h2 id="capability-matrix" align="center">Capability Matrix</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>Analytics Architecture</h3>
+
+| Capability | Professional Value |
+|:---|:---|
+| SQL data modelling | Reliable portfolio, KPI, and reconciliation datasets |
+| Power Query and DAX | Interactive BI layers for business users |
+| Python automation | Repeatable workflows, validation, and reporting speed |
+| A/B testing and measurement | Evidence-based product and process decisions |
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Engineering Delivery</h3>
+
+| Capability | Professional Value |
+|:---|:---|
+| AWS/Azure pipelines | Cloud-connected ingestion and processing workflows |
+| REST API integration | Data products that connect across systems |
+| PostgreSQL engineering | Reconciliation logic, CTEs, window functions, auditability |
+| Agile execution | Clear delivery rhythm across compact technical teams |
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,50:00E5FF,100:FF00E5&height=4&section=header" width="100%" alt="neon divider" />
+
+<!-- =============================== CASE FILES =============================== -->
+
+<h2 id="case-files" align="center">Case Files</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">AI-Powered SME Accounting Platform</h3>
+<p align="center"><sub>Tiaki Taonga Trust | Aug 2025 - Present</sub></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=000" alt="Power BI" />
+</p>
+
+**Role:** Data Analyst and AI Engineer | Scrum Master
+
+Architecting an AI-powered accounting platform for NZ SMEs, connecting document ingestion, reconciliation logic, validation workflows, and stakeholder analytics.
+
+| Delivery Area | Outcome |
+|:---|:---|
+| AWS Textract OCR pipeline plus Python validation | **85%** less manual data entry |
+| PostgreSQL reconciliation engine using CTEs and window functions | **70%** faster transaction matching |
+| REST API and Power BI reporting layer | Clear operational visibility for stakeholders |
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Banking Analytics and Reporting System</h3>
+<p align="center"><sub>Shanghai Pudong Development Bank | Jun 2018 - Jun 2025</sub></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=000" alt="Power BI" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
+
+**Role:** Senior Data Analyst
+
+Led analytics for corporate client coverage, lending support, portfolio monitoring, and management reporting across financial decision workflows.
+
+| Delivery Area | Outcome |
+|:---|:---|
+| SQL monitoring datasets with joins, CTEs, and window functions | KPI tracking and risk indicators |
+| Python and Excel automation templates | **30%** workflow efficiency gain |
+| Power BI dashboards with Power Query ETL and DAX | Interactive portfolio and risk reporting |
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF00E5,100:00E5FF&height=4&section=header" width="100%" alt="neon divider" />
+
+<!-- =============================== TECHNOLOGY GRID =============================== -->
+
+<h2 id="technology-grid" align="center">Technology Grid</h2>
 
 <div align="center">
 <table>
@@ -119,7 +217,7 @@ Currently pursuing a <strong>Master of Software Engineering</strong> at Yoobee C
 </td>
 <td align="center" valign="top" width="25%">
 
-<h3>Cloud Grid</h3>
+<h3>Cloud and APIs</h3>
 
 <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="AWS and Azure" />
 <br>
@@ -147,29 +245,29 @@ Currently pursuing a <strong>Master of Software Engineering</strong> at Yoobee C
 </td>
 <td align="center" valign="top" width="25%">
 
-<h3>Ops Toolkit</h3>
+<h3>Delivery Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="Git and VS Code" />
 <br>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 <br>
-<img src="https://img.shields.io/badge/Agile/Scrum-39FF14?style=flat-square&logo=scrumalliance&logoColor=050014" alt="Agile Scrum" />
+<img src="https://img.shields.io/badge/Agile/Scrum-22C55E?style=flat-square&logo=scrumalliance&logoColor=050014" alt="Agile Scrum" />
 
 </td>
 </tr>
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:00E5FF,100:BD00FF&height=4&section=header" width="100%" alt="neon divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:22C55E,100:FF00E5&height=4&section=header" width="100%" alt="neon divider" />
 
-<!-- =============================== SYSTEM METRICS =============================== -->
+<!-- =============================== METRICS =============================== -->
 
-<h2 id="system-metrics" align="center">System Metrics</h2>
+<h2 id="metrics" align="center">Metrics</h2>
 
 <p align="center">
   <a href="https://github.com/edison1006">
-    <img src="https://github-readme-stats.vercel.app/api?username=edison1006&show_icons=true&theme=radical&hide_border=true&bg_color=050014&title_color=00E5FF&icon_color=FF00E5&text_color=E5E7EB&include_all_commits=true&count_private=true&custom_title=Neon+Signal+Stats" height="170" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=edison1006&show_icons=true&theme=radical&hide_border=true&bg_color=050014&title_color=00E5FF&icon_color=FF00E5&text_color=E5E7EB&include_all_commits=true&count_private=true&custom_title=GitHub+Signal" height="170" alt="GitHub stats" />
   </a>
   <a href="https://github.com/edison1006">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edison1006&layout=compact&theme=radical&hide_border=true&bg_color=050014&title_color=00E5FF&text_color=E5E7EB&langs_count=8" height="170" alt="Top languages" />
@@ -184,101 +282,42 @@ Currently pursuing a <strong>Master of Software Engineering</strong> at Yoobee C
 
 <p align="center">
   <a href="https://github.com/edison1006">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=edison1006&theme=redical&hide_border=true&bg_color=050014&color=00E5FF&line=FF00E5&point=39FF14&area=true&area_color=BD00FF" width="95%" alt="Activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=edison1006&theme=redical&hide_border=true&bg_color=050014&color=00E5FF&line=FF00E5&point=22C55E&area=true&area_color=7C3AED" width="95%" alt="Activity graph" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:00E5FF,100:39FF14&height=4&section=header" width="100%" alt="neon divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:7C3AED,100:00E5FF&height=4&section=header" width="100%" alt="neon divider" />
 
-<!-- =============================== MISSION FILES =============================== -->
+<!-- =============================== PROFESSIONAL RECORD =============================== -->
 
-<h2 id="mission-files" align="center">Mission Files</h2>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">AI-Powered SME Accounting Platform</h3>
-<p align="center"><sub>Tiaki Taonga Trust | Aug 2025 - Present</sub></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=000" alt="Power BI" />
-</p>
-
-**Data Analyst and AI Engineer | Scrum Master**
-
-Architected an AI-powered accounting platform for NZ SMEs, integrating data ingestion, automation workflows, and analytics in a 3-person Agile team.
-
-| Deliverable | Impact |
-|:---|:---|
-| AWS Textract OCR pipeline plus Python validation | **85%** less manual entry |
-| PostgreSQL reconciliation engine with CTEs and window functions | **70%** faster matching |
-| Power BI reporting plus REST API integration | Stakeholder-ready analytics |
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">Banking Analytics and Reporting</h3>
-<p align="center"><sub>Shanghai Pudong Development Bank | Jun 2018 - Jun 2025</sub></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=000" alt="Power BI" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
-</p>
-
-**Senior Data Analyst**
-
-Led data analytics for corporate client coverage, financial analysis, and decision support for lending and investment decisions.
-
-| Deliverable | Impact |
-|:---|:---|
-| SQL portfolio monitoring with joins, CTEs, and window functions | KPI tracking and risk flags |
-| Python and Excel automation, reusable templates | **30%** efficiency gain |
-| Power BI dashboards with Power Query ETL and DAX | Interactive risk KPIs |
-
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:BD00FF,100:FF00E5&height=4&section=header" width="100%" alt="neon divider" />
-
-<!-- =============================== CAREER LOG =============================== -->
-
-<h2 align="center">Career Log</h2>
+<h2 align="center">Professional Record</h2>
 
 <div align="center">
 <table>
 <tr>
 <td width="55%" valign="top">
 
-<h3>Professional Timeline</h3>
+<h3>Experience Timeline</h3>
 
-<img src="https://img.shields.io/badge/CURRENT_NODE-39FF14?style=flat-square&labelColor=050014" alt="Current node" /> **Data Analyst and AI Engineer**
-<br><sub>Tiaki Taonga Trust, Auckland | Aug 2025 - Present</sub>
+<img src="https://img.shields.io/badge/CURRENT-Tiaki_Taonga_Trust-22C55E?style=flat-square&labelColor=050014" alt="Current role" /> **Data Analyst and AI Engineer**
+<br><sub>Auckland | Aug 2025 - Present</sub>
 - Architecting an AI-powered accounting platform for NZ SMEs
-- Scrum Master in a 3-person Agile team
-- Built AWS OCR pipeline, PostgreSQL reconciliation engine, and Power BI layer
+- Serving as Scrum Master in a 3-person Agile team
+- Building AWS OCR, PostgreSQL reconciliation, API, and Power BI layers
 
 ---
 
-<img src="https://img.shields.io/badge/ANALYTICS_CORE-00E5FF?style=flat-square&labelColor=050014" alt="Analytics core" /> **Senior Data Analyst**
-<br><sub>Shanghai Pudong Development Bank, China | Jun 2018 - Jun 2025</sub>
-- Corporate client coverage and financial analysis for lending/investment
-- SQL datasets, automated Python/Excel workflows, Power BI dashboards
-- Improved team workflow efficiency by **30%** through process optimisation
+<img src="https://img.shields.io/badge/2018--2025-SPDB-00E5FF?style=flat-square&labelColor=050014" alt="SPDB" /> **Senior Data Analyst**
+<br><sub>Shanghai Pudong Development Bank, China</sub>
+- Delivered analytics for corporate client coverage and lending support
+- Built SQL datasets, Python/Excel automation, and Power BI dashboards
+- Improved team workflow efficiency by **30%** through reusable processes
 
 ---
 
-<img src="https://img.shields.io/badge/CLIENT_PROTOCOL-C97C5D?style=flat-square&labelColor=050014" alt="Client protocol" /> **Customer Manager**
-<br><sub>China CITIC Bank, China | Jun 2014 - Jun 2018</sub>
-- Financial services for corporate and retail clients
+<img src="https://img.shields.io/badge/2014--2018-CITIC_Bank-FF00E5?style=flat-square&labelColor=050014" alt="CITIC Bank" /> **Customer Manager**
+<br><sub>China CITIC Bank, China</sub>
+- Managed financial services for corporate and retail clients
 - Increased client satisfaction by **25%** through personalised service
 
 </td>
@@ -318,7 +357,7 @@ Led data analytics for corporate client coverage, financial analysis, and decisi
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Google-Adv._Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Advanced Data Analytics" />
+<img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Advanced Data Analytics" />
 <br><sub>Credential: <code>CL2QSAR9GNQ0</code></sub>
 
 </td>
@@ -326,14 +365,14 @@ Led data analytics for corporate client coverage, financial analysis, and decisi
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:00E5FF,100:BD00FF&height=4&section=header" width="100%" alt="neon divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,50:00E5FF,100:FF00E5&height=4&section=header" width="100%" alt="neon divider" />
 
-<!-- =============================== ACCESS NODE =============================== -->
+<!-- =============================== CONTACT =============================== -->
 
-<h2 id="access-node" align="center">Access Node</h2>
+<h2 id="contact" align="center">Contact</h2>
 
 <p align="center">
-  <em>Open to collaborations, opportunities, and data/tech discussions.</em>
+  <strong>Open to data analytics, cloud data, AI automation, and product analytics opportunities.</strong>
 </p>
 
 <p align="center">
@@ -344,12 +383,12 @@ Led data analytics for corporate client coverage, financial analysis, and decisi
     <img src="https://img.shields.io/badge/Gmail-FF00E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/edison1006">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,35:28104E,70:FF00E5,100:00E5FF&height=120&section=footer&fontColor=00E5FF" width="100%" alt="Cyberpunk footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,28:15162B,55:7C3AED,78:FF00E5,100:00E5FF&height=120&section=footer&fontColor=00E5FF" width="100%" alt="Cyberpunk footer" />
 </div>
 
 <p align="center">
