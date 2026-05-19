@@ -1,49 +1,39 @@
-<!-- =============================== PIXEL FARM HEADER =============================== -->
+<!-- =============================== PIXEL GAME PROFILE =============================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8C45,45:F2C14E,100:C97C5D&height=230&section=header&text=Edison%20(Xiaoyu)%20Zhang&fontSize=54&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%20%7C%20%20Cloud%20Builder%20%20%7C%20%20AI%20Farmhand&descAlignY=56&descSize=18&fontColor=FFF2B8&descColor=FFF8D6" width="100%" alt="Pixel farm header" />
+  <img src="./assets/pixel-profile-dashboard.svg" width="100%" alt="Edison Zhang pixel game GitHub profile dashboard" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=6F4E37&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=78&lines=Planting+clean+SQL+models+and+harvesting+insights;Python+%7C+Power+BI+%7C+AWS+%7C+FinTech+%7C+AI" alt="Typing SVG" />
-  </a>
-</div>
+<!-- =============================== QUICK LINKS =============================== -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/xiaoyu-zhang-2397a0372/">
-    <img src="https://img.shields.io/badge/LinkedIn-5B8C45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-2F6B45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:edisonzhang0321@gmail.com">
     <img src="https://img.shields.io/badge/Email-C97C5D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
   <a href="https://github.com/edison1006">
-    <img src="https://img.shields.io/badge/GitHub-6F4E37?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-1F2A1F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=edison1006&style=for-the-badge&color=C97C5D&label=Farm+Visitors" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8E7B0,50:A7C957,100:5B8C45&height=6&section=header" width="88%" alt="pixel divider" />
+  <img src="https://komarev.com/ghpvc/?username=edison1006&style=for-the-badge&color=2F6B45&label=Visitors" alt="Profile Views" />
 </p>
 
 <!-- =============================== ABOUT =============================== -->
 
-<h3 align="center">The Farmhouse</h3>
+<h3 align="center">Player Profile</h3>
 
 <table align="center">
 <tr>
 <td align="center">
 
-<strong>Data Analyst</strong> with <strong>5 years' experience</strong> delivering banking analytics, automation, and decision-support insights.
+<strong>Edison (Xiaoyu) Zhang</strong> | <strong>Data Analyst</strong> | <strong>AWS and Power BI Certified</strong>
 <br>
-I build reliable end-to-end reporting and data workflows: <strong>SQL/PostgreSQL</strong> data modelling, <strong>ETL/ELT pipelines</strong>,
+5 years' experience delivering banking analytics, automation, and decision-support insights.
 <br>
-<strong>Power BI</strong> dashboards, and <strong>Python</strong> analytics. I also work with cloud-based pipelines on <strong>AWS/Azure</strong>
+I build reliable data workflows with <strong>SQL/PostgreSQL</strong>, <strong>Python</strong>, <strong>Power BI</strong>, <strong>AWS/Azure</strong>, and A/B testing.
 <br>
-and experimentation through A/B testing. Currently pursuing a <strong>Master of Software Engineering</strong>
-<br>
-at Yoobee College in New Zealand, connecting finance domain expertise with modern data and software engineering.
+Currently pursuing a <strong>Master of Software Engineering</strong> at Yoobee College, New Zealand.
 
 </td>
 </tr>
@@ -56,29 +46,25 @@ at Yoobee College in New Zealand, connecting finance domain expertise with moder
 <tr>
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/CURRENT_CROP-F2C14E?style=flat-square&labelColor=6F4E37&color=F2C14E" alt="Current crop" /><br><br>
+<img src="https://img.shields.io/badge/Main_Quest-F2D66D?style=flat-square&labelColor=6F4E37&color=F2D66D" alt="Main quest" /><br><br>
 <strong>AI-Powered Accounting Platform</strong><br>
 <sub>for NZ SMEs at Tiaki Taonga Trust</sub><br><br>
 </td>
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/SPECIAL_SKILL-A7C957?style=flat-square&labelColor=31572C&color=A7C957" alt="Special skill" /><br><br>
+<img src="https://img.shields.io/badge/Core_Skill-A7C957?style=flat-square&labelColor=31572C&color=A7C957" alt="Skill" /><br><br>
 <strong>Business Logic to Data Solutions</strong><br>
 <sub>Banking insight plus engineering craft</sub><br><br>
 </td>
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/NEXT_UP-C97C5D?style=flat-square&labelColor=6F4E37&color=C97C5D" alt="Next up" /><br><br>
+<img src="https://img.shields.io/badge/Unlocking-C97C5D?style=flat-square&labelColor=6F4E37&color=C97C5D" alt="Unlocking" /><br><br>
 <strong>Cloud-Native Pipelines and AI/ML</strong><br>
 <sub>React, full-stack development</sub><br><br>
 </td>
 </tr>
 </table>
 </div>
-
-<p align="center">
-  <em>"Without data, you're just another person with an opinion."</em> - W. Edwards Deming
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B8C45,50:F2C14E,100:C97C5D&height=6&section=header" width="88%" alt="pixel divider" />
