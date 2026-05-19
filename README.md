@@ -1,178 +1,183 @@
-<!-- =============================== HEADER =============================== -->
+<!-- =============================== PIXEL FARM HEADER =============================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:58A6FF&height=230&section=header&text=Edison%20(Xiaoyu)%20Zhang&fontSize=58&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%20%E2%80%A2%20%20AWS%20%26%20Power%20BI%20Certified%20%20%E2%80%A2%20%20FinTech%20%26%20AI&descAlignY=56&descSize=18&fontColor=58A6FF&descColor=8B949E" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8C45,45:F2C14E,100:C97C5D&height=230&section=header&text=Edison%20(Xiaoyu)%20Zhang&fontSize=54&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%20%7C%20%20Cloud%20Builder%20%20%7C%20%20AI%20Farmhand&descAlignY=56&descSize=18&fontColor=FFF2B8&descColor=FFF8D6" width="100%" alt="Pixel farm header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=5+Years+Banking+Analytics+%26+Data+Engineering;SQL+%E2%94%82+Python+%E2%94%82+Power+BI+%E2%94%82+AWS+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=6F4E37&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=78&lines=Planting+clean+SQL+models+and+harvesting+insights;Python+%7C+Power+BI+%7C+AWS+%7C+FinTech+%7C+AI" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/xiaoyu-zhang-2397a0372/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-5B8C45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:edisonzhang0321@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-C97C5D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
   <a href="https://github.com/edison1006">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-6F4E37?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=edison1006&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=edison1006&style=for-the-badge&color=C97C5D&label=Farm+Visitors" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8E7B0,50:A7C957,100:5B8C45&height=6&section=header" width="88%" alt="pixel divider" />
 </p>
 
 <!-- =============================== ABOUT =============================== -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<h3 align="center">The Farmhouse</h3>
 
 <table align="center">
-<tr><td>
+<tr>
+<td align="center">
 
-<h3 align="center">About Me</h3>
+<strong>Data Analyst</strong> with <strong>5 years' experience</strong> delivering banking analytics, automation, and decision-support insights.
+<br>
+I build reliable end-to-end reporting and data workflows: <strong>SQL/PostgreSQL</strong> data modelling, <strong>ETL/ELT pipelines</strong>,
+<br>
+<strong>Power BI</strong> dashboards, and <strong>Python</strong> analytics. I also work with cloud-based pipelines on <strong>AWS/Azure</strong>
+<br>
+and experimentation through A/B testing. Currently pursuing a <strong>Master of Software Engineering</strong>
+<br>
+at Yoobee College in New Zealand, connecting finance domain expertise with modern data and software engineering.
 
-<p align="center">
-<strong>Data Analyst</strong> with <strong>5 years' experience</strong> delivering banking analytics, automation, and decision-support insights.<br>
-I build reliable end-to-end reporting and data workflows &mdash; from <strong>SQL/PostgreSQL</strong> data modelling and <strong>ETL/ELT pipelines</strong><br>
-to <strong>Power BI</strong> dashboards and <strong>Python</strong> analytics. Experienced in cloud-based pipelines on <strong>AWS/Azure</strong><br>
-and experimentation (A/B testing) to measure impact. Currently pursuing a <strong>Master of Software Engineering</strong><br>
-at Yoobee College (NZ), bridging deep finance domain expertise with modern data &amp; software engineering.
-</p>
-
-</td></tr>
+</td>
+</tr>
 </table>
 
 <br>
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/-CURRENT_FOCUS-58A6FF?style=flat-square" /><br><br>
+<img src="https://img.shields.io/badge/CURRENT_CROP-F2C14E?style=flat-square&labelColor=6F4E37&color=F2C14E" alt="Current crop" /><br><br>
 <strong>AI-Powered Accounting Platform</strong><br>
 <sub>for NZ SMEs at Tiaki Taonga Trust</sub><br><br>
 </td>
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/-MY_EDGE-238636?style=flat-square" /><br><br>
+<img src="https://img.shields.io/badge/SPECIAL_SKILL-A7C957?style=flat-square&labelColor=31572C&color=A7C957" alt="Special skill" /><br><br>
 <strong>Business Logic to Data Solutions</strong><br>
-<sub>Banking + Engineering expertise</sub><br><br>
+<sub>Banking insight plus engineering craft</sub><br><br>
 </td>
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/-EXPANDING-BF91F3?style=flat-square" /><br><br>
-<strong>Cloud-Native Pipelines & AI/ML</strong><br>
-<sub>React, Full-Stack Development</sub><br><br>
+<img src="https://img.shields.io/badge/NEXT_UP-C97C5D?style=flat-square&labelColor=6F4E37&color=C97C5D" alt="Next up" /><br><br>
+<strong>Cloud-Native Pipelines and AI/ML</strong><br>
+<sub>React, full-stack development</sub><br><br>
 </td>
 </tr>
 </table>
-
 </div>
 
-<br>
+<p align="center">
+  <em>"Without data, you're just another person with an opinion."</em> - W. Edwards Deming
+</p>
 
 <p align="center">
-  <em>"Without data, you're just another person with an opinion."</em> &mdash; W. Edwards Deming
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B8C45,50:F2C14E,100:C97C5D&height=6&section=header" width="88%" alt="pixel divider" />
 </p>
 
 <!-- =============================== TECH STACK =============================== -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Tool Shed</h3>
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" valign="top" width="25%">
 
-<h4>Data & Analytics</h4>
+<h4>Data Crops</h4>
 
-<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=000" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
-
-</td>
-<td align="center" valign="top" width="25%">
-
-<h4>Cloud & APIs</h4>
-
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Textract-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,postgres&theme=light" /><br>
+<img src="https://img.shields.io/badge/Pandas-5B8C45?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-386641?style=flat-square&logo=numpy&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Power_BI-F2C14E?style=flat-square&logo=power-bi&logoColor=3A2E1F" />
+<img src="https://img.shields.io/badge/Tableau-C97C5D?style=flat-square&logo=tableau&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Excel-31572C?style=flat-square&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-6F4E37?style=flat-square&logo=plotly&logoColor=white" />
 
 </td>
 <td align="center" valign="top" width="25%">
 
-<h4>Front-End</h4>
+<h4>Cloud Weather</h4>
 
-<img src="https://skillicons.dev/icons?i=react,js&theme=dark" /><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=light" /><br>
+<img src="https://img.shields.io/badge/Lambda-C97C5D?style=flat-square&logo=aws-lambda&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-5B8C45?style=flat-square&logo=amazon-s3&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Textract-6F4E37?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-A7C957?style=flat-square&logo=fastapi&logoColor=31572C" /><br>
+<img src="https://img.shields.io/badge/JSON-F2C14E?style=flat-square&logo=json&logoColor=3A2E1F" />
 
 </td>
 <td align="center" valign="top" width="25%">
 
-<h4>Tools & Methods</h4>
+<h4>Town Board</h4>
 
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Agile/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,js&theme=light" /><br>
+<img src="https://img.shields.io/badge/HTML5-C97C5D?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-5B8C45?style=flat-square&logo=css3&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Tailwind-A7C957?style=flat-square&logo=tailwind-css&logoColor=31572C" />
+<img src="https://img.shields.io/badge/ES6+-F2C14E?style=flat-square&logo=javascript&logoColor=3A2E1F" />
+
+</td>
+<td align="center" valign="top" width="25%">
+
+<h4>Workshop</h4>
+
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=light" /><br>
+<img src="https://img.shields.io/badge/Jira-5B8C45?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-C97C5D?style=flat-square&logo=postman&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Agile/Scrum-31572C?style=flat-square&logo=scrumalliance&logoColor=white" />
 
 </td>
 </tr>
 </table>
-
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C97C5D,50:F2C14E,100:5B8C45&height=6&section=header" width="88%" alt="pixel divider" />
+</p>
 
 <!-- =============================== GITHUB STATS =============================== -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h3 align="center">GitHub Analytics</h3>
+<h3 align="center">Harvest Ledger</h3>
 
 <p align="center">
   <a href="https://github.com/edison1006">
-    <img src="https://github-readme-stats.vercel.app/api?username=edison1006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&custom_title=GitHub+Stats" height="170" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=edison1006&show_icons=true&theme=gruvbox_light&hide_border=true&bg_color=FFF8D6&title_color=5B8C45&icon_color=C97C5D&text_color=3A2E1F&include_all_commits=true&count_private=true&custom_title=Farm+Stats" height="170" alt="GitHub stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/edison1006">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edison1006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="170" alt="languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edison1006&layout=compact&theme=gruvbox_light&hide_border=true&bg_color=FFF8D6&title_color=5B8C45&text_color=3A2E1F&langs_count=8" height="170" alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/edison1006">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edison1006&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="170" alt="streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edison1006&theme=gruvbox-light&hide_border=true&background=FFF8D6&ring=5B8C45&fire=C97C5D&currStreakLabel=5B8C45&sideLabels=6F4E37&dates=8A6F48" height="170" alt="GitHub streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/edison1006">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=edison1006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%" alt="activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=edison1006&theme=github-compact&hide_border=true&bg_color=FFF8D6&color=5B8C45&line=C97C5D&point=6F4E37&area=true&area_color=F2C14E" width="95%" alt="Activity graph" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B8C45,50:A7C957,100:F2C14E&height=6&section=header" width="88%" alt="pixel divider" />
 </p>
 
 <!-- =============================== PROJECTS =============================== -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h3 align="center">Featured Projects</h3>
+<h3 align="center">Featured Quests</h3>
 
 <br>
 
@@ -182,58 +187,60 @@ at Yoobee College (NZ), bridging deep finance domain expertise with modern data 
 <td width="50%" valign="top">
 
 <h4 align="center">AI-Powered SME Accounting Platform</h4>
-<p align="center"><sub>Tiaki Taonga Trust &bull; Aug 2025 &ndash; Present</sub></p>
+<p align="center"><sub>Tiaki Taonga Trust | Aug 2025 - Present</sub></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=000" />
+<img src="https://img.shields.io/badge/Python-5B8C45?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-C97C5D?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-31572C?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C14E?style=flat-square&logo=power-bi&logoColor=3A2E1F" />
 </p>
 
-**Data Analyst & AI Engineer | Scrum Master**
+**Data Analyst and AI Engineer | Scrum Master**
 
 Architected an AI-powered accounting platform for NZ SMEs, integrating data ingestion, automation workflows, and analytics in a 3-person Agile team.
 
-| Deliverable | Impact |
+| Deliverable | Harvest |
 |:---|:---|
-| AWS Textract OCR pipeline + Python validation | **85%** less manual entry |
-| PostgreSQL reconciliation engine (CTEs, window functions) | **70%** faster matching |
-| Power BI reporting + REST API integration | Stakeholder-ready analytics |
+| AWS Textract OCR pipeline plus Python validation | **85%** less manual entry |
+| PostgreSQL reconciliation engine with CTEs and window functions | **70%** faster matching |
+| Power BI reporting plus REST API integration | Stakeholder-ready analytics |
 
 </td>
 <td width="50%" valign="top">
 
-<h4 align="center">Banking Analytics & Reporting</h4>
-<p align="center"><sub>Shanghai Pudong Development Bank &bull; Jun 2018 &ndash; Jun 2025</sub></p>
+<h4 align="center">Banking Analytics and Reporting</h4>
+<p align="center"><sub>Shanghai Pudong Development Bank | Jun 2018 - Jun 2025</sub></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=000" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-31572C?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-5B8C45?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C14E?style=flat-square&logo=power-bi&logoColor=3A2E1F" />
+<img src="https://img.shields.io/badge/Excel-A7C957?style=flat-square&logo=microsoft-excel&logoColor=31572C" />
 </p>
 
 **Senior Data Analyst**
 
 Led data analytics for corporate client coverage, financial analysis, and decision support for lending and investment decisions.
 
-| Deliverable | Impact |
+| Deliverable | Harvest |
 |:---|:---|
-| SQL portfolio monitoring (joins, CTEs, window functions) | KPI tracking & risk flags |
-| Python & Excel automation, reusable templates | **30%** efficiency gain |
-| Power BI dashboards (Power Query ETL, DAX) | Interactive risk KPIs |
+| SQL portfolio monitoring with joins, CTEs, and window functions | KPI tracking and risk flags |
+| Python and Excel automation, reusable templates | **30%** efficiency gain |
+| Power BI dashboards with Power Query ETL and DAX | Interactive risk KPIs |
 
 </td>
 </tr>
 </table>
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2C14E,50:C97C5D,100:6F4E37&height=6&section=header" width="88%" alt="pixel divider" />
+</p>
+
 <!-- =============================== EXPERIENCE =============================== -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h3 align="center">Experience & Education</h3>
+<h3 align="center">Village Notice Board</h3>
 
 <br>
 
@@ -244,24 +251,24 @@ Led data analytics for corporate client coverage, financial analysis, and decisi
 
 <h4>Professional Experience</h4>
 
-<img src="https://img.shields.io/badge/-CURRENT-238636?style=flat-square" /> &nbsp; **Data Analyst & AI Engineer**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Tiaki Taonga Trust, Auckland &bull; Aug 2025 &ndash; Present</sub>
+<img src="https://img.shields.io/badge/CURRENT_SEASON-5B8C45?style=flat-square&labelColor=31572C" alt="Current season" /> &nbsp; **Data Analyst and AI Engineer**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Tiaki Taonga Trust, Auckland | Aug 2025 - Present</sub>
 - Architecting AI-powered accounting platform for NZ SMEs
 - Scrum Master in a 3-person Agile team
 - Built AWS OCR pipeline, PostgreSQL reconciliation engine, Power BI layer
 
 ---
 
-<img src="https://img.shields.io/badge/-7_YEARS-58A6FF?style=flat-square" /> &nbsp; **Senior Data Analyst**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Shanghai Pudong Development Bank, China &bull; Jun 2018 &ndash; Jun 2025</sub>
-- Corporate client coverage & financial analysis for lending/investment
+<img src="https://img.shields.io/badge/7_SEASONS-F2C14E?style=flat-square&labelColor=6F4E37&color=F2C14E" alt="7 seasons" /> &nbsp; **Senior Data Analyst**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Shanghai Pudong Development Bank, China | Jun 2018 - Jun 2025</sub>
+- Corporate client coverage and financial analysis for lending/investment
 - SQL datasets, automated Python/Excel workflows, Power BI dashboards
 - Improved team workflow efficiency by **30%** through process optimisation
 
 ---
 
-<img src="https://img.shields.io/badge/-4_YEARS-8B949E?style=flat-square" /> &nbsp; **Customer Manager**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>China CITIC Bank, China &bull; Jun 2014 &ndash; Jun 2018</sub>
+<img src="https://img.shields.io/badge/4_SEASONS-C97C5D?style=flat-square&labelColor=6F4E37&color=C97C5D" alt="4 seasons" /> &nbsp; **Customer Manager**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>China CITIC Bank, China | Jun 2014 - Jun 2018</sub>
 - Financial services for corporate and retail clients
 - Increased client satisfaction by **25%** through personalised service
 
@@ -271,22 +278,22 @@ Led data analytics for corporate client coverage, financial analysis, and decisi
 <h4>Education</h4>
 
 **Master of Software Engineering**
-<br><sub>Yoobee College, New Zealand &bull; 2025 &ndash; 2026 (Expected)</sub>
+<br><sub>Yoobee College, New Zealand | 2025 - 2026 Expected</sub>
 
-<br>
+<br><br>
 
 **Master of Business Administration**
-<br><sub>Anhui University, China &bull; 2021</sub>
+<br><sub>Anhui University, China | 2021</sub>
 
-<br>
+<br><br>
 
-**BSc Computing & Information Science**
-<br><sub>Zhongnan Univ. of Economics & Law, China &bull; 2014</sub>
+**BSc Computing and Information Science**
+<br><sub>Zhongnan Univ. of Economics and Law, China | 2014</sub>
 
-<br>
+<br><br>
 
 **Bachelor of Finance**
-<br><sub>South-Central Univ. for Nationalities, China &bull; 2014</sub>
+<br><sub>South-Central Univ. for Nationalities, China | 2014</sub>
 
 <br>
 
@@ -295,15 +302,15 @@ Led data analytics for corporate client coverage, financial analysis, and decisi
 <h4>Certifications</h4>
 
 <p>
-<img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect-C97C5D?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" /><br>
 <sub>Credential: <code>P3G3E5HHZ9H3</code></sub>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Microsoft-Power_BI_Analyst-F2C811?style=flat-square&logo=power-bi&logoColor=000" /><br>
+<img src="https://img.shields.io/badge/Microsoft-Power_BI_Analyst-F2C14E?style=flat-square&logo=power-bi&logoColor=3A2E1F" alt="Power BI Analyst" /><br>
 <sub>Credential: <code>NACYSA6F18ED</code></sub>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Google-Adv._Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Google-Adv._Data_Analytics-5B8C45?style=flat-square&logo=google&logoColor=white" alt="Google Advanced Data Analytics" /><br>
 <sub>Credential: <code>CL2QSAR9GNQ0</code></sub>
 </p>
 
@@ -312,21 +319,25 @@ Led data analytics for corporate client coverage, financial analysis, and decisi
 </table>
 </div>
 
-<!-- =============================== SNAKE =============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F4E37,50:C97C5D,100:F2C14E&height=6&section=header" width="88%" alt="pixel divider" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- =============================== CONTRIBUTIONS =============================== -->
 
-<h3 align="center">Contribution Graph</h3>
+<h3 align="center">Crop Calendar</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/edison1006/edison1006/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%" />
+  <img src="https://raw.githubusercontent.com/edison1006/edison1006/output/github-contribution-grid-snake.svg" alt="Contribution animation" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A7C957,50:F2C14E,100:C97C5D&height=6&section=header" width="88%" alt="pixel divider" />
 </p>
 
 <!-- =============================== CONNECT =============================== -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h3 align="center">Let's Connect</h3>
+<h3 align="center">The Saloon Board</h3>
 
 <br>
 
@@ -336,13 +347,13 @@ Led data analytics for corporate client coverage, financial analysis, and decisi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/xiaoyu-zhang-2397a0372/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-5B8C45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:edisonzhang0321@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-C97C5D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/edison1006">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-6F4E37?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -351,9 +362,9 @@ Led data analytics for corporate client coverage, financial analysis, and decisi
 <!-- =============================== FOOTER =============================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:58A6FF&height=120&section=footer&fontColor=58A6FF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C97C5D,45:F2C14E,100:5B8C45&height=120&section=footer&fontColor=FFF8D6" width="100%" alt="Pixel farm footer" />
 </div>
 
 <p align="center">
-  <sub>Made with precision by <a href="https://github.com/edison1006">Edison Zhang</a></sub>
+  <sub>Made with care by <a href="https://github.com/edison1006">Edison Zhang</a></sub>
 </p>
