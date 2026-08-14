@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/purple-data-nexus.png" width="100%" alt="Purple cyberpunk data network over the Auckland skyline" />
+  <img src="./assets/purple-data-nexus-v2.png" width="100%" alt="Cyberpunk data engineer overlooking a neon Auckland skyline" />
 </div>
 
 <div align="center">
@@ -26,17 +26,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14002B,20:6D28D9,50:E879F9,80:6D28D9,100:14002B&height=4" width="100%" alt="Purple neon divider" />
 
-## `01 // IDENTITY`
+<div align="center">
+  <img src="./assets/identity-console.svg" width="100%" alt="Identity console: Data Engineer and Analytics Strategist in Auckland" />
+</div>
 
-```text
-> LOCATION ........ Auckland, New Zealand
-> CURRENT ROLE .... Data Engineer & Analyst @ Tiaki Taonga Trust
-> CORE SYSTEMS .... Data pipelines · Cloud databases · BI · AI-enabled finance
-> DOMAIN EDGE ..... 10+ years in banking · 5+ years in analytics & transformation
-> PRIME DIRECTIVE . Convert complex business problems into reliable data products
-```
-
-I design and maintain data solutions across the full path from **raw source to decision**: Python and SQL pipelines, automated ETL/ELT workflows, cloud data environments, dimensional models, validation controls, and Power BI reporting. My edge is the bridge between engineering and business—I can speak to stakeholders, understand financial and operational risk, then ship the system that makes the answer visible.
+> ### I engineer the bridge between **business reality** and **data systems**.
+>
+> From Python and SQL pipelines to cloud data environments, dimensional models, validation controls, and Power BI—I turn complex stakeholder needs into reliable products that make the answer visible.
 
 <div align="center">
   <table>
@@ -51,7 +47,7 @@ I design and maintain data solutions across the full path from **raw source to d
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14002B,50:A855F7,100:14002B&height=3" width="100%" alt="Purple divider" />
 
-## `02 // CURRENT MISSION`
+<h2 align="right"><code>02 //</code> CURRENT MISSION ⚡</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/TIAKI_TAONGA_TRUST-DATA_ENGINEER_%26_ANALYST-7E22CE?style=for-the-badge&labelColor=0B0014" alt="Tiaki Taonga Trust — Data Engineer and Analyst" />
@@ -60,17 +56,17 @@ I design and maintain data solutions across the full path from **raw source to d
 
 <br>
 
-| SYSTEM | EXECUTION |
-|:--|:--|
-| **Centralised cloud database** | Consolidating distributed structured and unstructured sources into a reliable organisational data layer |
-| **Automated ETL/ELT** | Building Python + SQL workflows for cleaning, transformation, validation, and scheduled updates |
-| **Decision intelligence** | Delivering Power BI models, DAX measures, and interactive reporting for actionable stakeholder insight |
-| **AI-powered accounting** | Engineering an end-to-end platform for New Zealand SMEs across ingestion, processing, reconciliation, analytics, and reporting |
-| **Cross-functional delivery** | Translating business requirements into tested, maintainable technical solutions with Git-based collaboration |
+- `DATABASE CORE` **Centralised cloud database** — consolidating structured and unstructured sources into one reliable organisational data layer.
+- `PIPELINE GRID` **Automated ETL/ELT** — Python + SQL workflows for cleaning, transformation, validation, and scheduled updates.
+- `SIGNAL LAYER` **Decision intelligence** — Power BI models, DAX measures, and interactive reporting for actionable insight.
+- `AI PROTOCOL` **SME accounting platform** — ingestion, processing, reconciliation, analytics, and reporting in one end-to-end system.
+- `DELIVERY LINK` **Cross-functional execution** — translating business requirements into tested, maintainable technical solutions.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14002B,50:A855F7,100:14002B&height=3" width="100%" alt="Purple divider" />
 
-## `03 // FEATURED BUILDS`
+<h2 align="center">◢ <code>03 // FEATURED BUILDS</code> ◣</h2>
+
+<p align="center"><i>Selected systems from the project vault</i></p>
 
 <table>
   <tr>
@@ -131,7 +127,7 @@ I design and maintain data solutions across the full path from **raw source to d
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14002B,50:A855F7,100:14002B&height=3" width="100%" alt="Purple divider" />
 
-## `04 // TECHNOLOGY ARSENAL`
+## `04 //` TECHNOLOGY **ARSENAL**
 
 <div align="center">
   <h3>DATA ENGINEERING</h3>
@@ -155,7 +151,7 @@ I design and maintain data solutions across the full path from **raw source to d
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14002B,50:A855F7,100:14002B&height=3" width="100%" alt="Purple divider" />
 
-## `05 // CREDENTIAL PROTOCOLS`
+<h2 align="center"><code>05 //</code> VERIFIED CREDENTIALS</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud_Solutions_Architect-6D28D9?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Solutions Architect Professional Certificate" />
@@ -167,17 +163,15 @@ I design and maintain data solutions across the full path from **raw source to d
 
 <br>
 
-| TIMELINE | TRANSMISSION |
-|:--|:--|
-| `2026` | **Master of Software Engineering** · Yoobee College, New Zealand |
-| `2025 → NOW` | **Data Engineer & Analyst** · Tiaki Taonga Trust, Auckland |
-| `2018 → 2025` | **Data Analyst** · Shanghai Pudong Development Bank, China |
-| `2021` | **Master of Business Administration** · Anhui University, China |
-| `2014` | **Bachelor of Computing & Information Science** + **Bachelor of Finance** |
+<div align="center">
+  <img src="./assets/career-timeline.svg" width="100%" alt="Career and education timeline from 2014 to present" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14002B,50:A855F7,100:14002B&height=3" width="100%" alt="Purple divider" />
 
-## `06 // GITHUB SIGNAL`
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=27&duration=1800&pause=900&color=C084FC&center=true&vCenter=true&repeat=true&width=620&height=60&lines=06+%2F%2F+GITHUB+SIGNAL;CONTRIBUTION+PULSE+ONLINE" alt="GitHub Signal" />
+</div>
 
 <div align="center">
   <img height="172" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edison1006&theme=midnight_purple" alt="Edison's GitHub statistics" />
