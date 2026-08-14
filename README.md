@@ -183,9 +183,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=165&color=0:05010D,45:6D28D9,70:A855F7,100:05010D&text=BUILD%20THE%20PIPELINE.%20EXPOSE%20THE%20SIGNAL.&fontColor=F3E8FF&fontSize=24&animation=twinkling&section=footer" width="100%" alt="Build the pipeline. Expose the signal." />
+  <img src="./assets/footer-signal.svg" width="100%" alt="Build the pipeline. Expose the signal. Open to data engineering opportunities in New Zealand." />
 </div>
-
-<p align="center">
-  <code>OPEN TO DATA ENGINEERING · ANALYTICS ENGINEERING · BI OPPORTUNITIES IN NEW ZEALAND</code>
-</p>
